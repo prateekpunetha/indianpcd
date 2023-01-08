@@ -55,4 +55,4 @@ Eriocaulaceae were listed as per Ansari and Balakrishnan (2009). Bladderworts of
 **Nomenclature:** The nomenclature of the taxa listed in dGRIP, in most of the cases, is as per the above mentioned literature. Nevertheless, some online databases/resources such as IPNI (www.ipni.org), TROPICOS (http://tropicos.org/), The Plant List (http://www.theplantlist.org/) and e-monocot (http://e-monocot.org/) have also been referred to list synonyms and for resolving issues pertaining to the nomenclature.
 Geographical distribution and taxonomic status: For finding the range of distribution of each taxon above mentioned literature and online databases were consulted. Taxonomic status of each taxon was assessed using data from BSI publication and the IUCN Red List of Threatened species available online (http://www.iucnredlist.org/).
 
-- [**Check Literature Cited on Taxonomy Here**](taxocite)
+- [**Check Literature Cited Here**](taxocite)
