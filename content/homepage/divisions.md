@@ -6,7 +6,7 @@ header_menu: true
 
 ---
 
-## Angiosperms (3508 species)
+## Angiosperms
 
 <!-- ![Angiosperms](images/angiosperms.jpg) -->
 
@@ -16,7 +16,7 @@ header_menu: true
 
 ---
 
-## Pteridophytes (1025 species)
+## Pteridophytes
 
 [![Pteridophytes](images/pteridophytes.jpg "Pteridophytes")](https://indianpcd.com/Pte.html)
 
@@ -24,7 +24,7 @@ header_menu: true
 
 ---
 
-## Gymnosperms (126 species)
+## Gymnosperms
 
 [![Gymnosperms](images/gymnosperms.jpg "Gymnosperms")](https://indianpcd.com/gym.html)
 
