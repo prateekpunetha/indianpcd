@@ -53,6 +53,6 @@ header_menu: true
   Pin: 416004
 
 - **Ms. Nandita Mahadev (Software Expert for dGRIP)** \
-  Department of Botany, University of Calcutta, 35 Ballygunge Circular Road,\
-  Kolkata, West Bengal \
-  Pin: 700019
+  #956/946/4 , First Floor \
+  Kiraganduru badavane \
+  Mandya- 571403, Karnataka
