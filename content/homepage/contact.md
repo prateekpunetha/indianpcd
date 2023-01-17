@@ -6,7 +6,7 @@ header_menu: true
 
 <br/><br/>
 
-### Prof. S. Jha
+### Prof. Sumita Jha
 
 - {{<icon class="fa fa-envelope">}}&nbsp;[sumitajha.cu@gmail.com](mailto:sumitajha.cu@gmail.com)
 
