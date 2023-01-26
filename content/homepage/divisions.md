@@ -12,7 +12,7 @@ header_menu: true
 
 [![Angiosperms](images/angiosperms.jpg "Angiosperms")](https://indianpcd.com/ang.html)
 
-[Click Here](https://demo18.elementssoftware.in/ang.html)
+[Click Here](https://indianpcd.com/ang.html)
 
 ---
 
