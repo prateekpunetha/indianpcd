@@ -10,32 +10,32 @@ header_menu: true
 
 <!-- ![Angiosperms](images/angiosperms.jpg) -->
 
-[![Angiosperms](images/angiosperms.jpg "Angiosperms")](https://indianpcd.com/ang.html)
+[![Angiosperms](images/angiosperms.jpg "Angiosperms")](https://database.indianpcd.org/ang.html)
 
-[Click Here](https://indianpcd.com/ang.html)
+[Click Here](https://database.indianpcd.org/ang.html)
 
 ---
 
 ## Pteridophytes
 
-[![Pteridophytes](images/pteridophytes.jpg "Pteridophytes")](https://indianpcd.com/Pte.html)
+[![Pteridophytes](images/pteridophytes.jpg "Pteridophytes")](https://database.indianpcd.org/Pte.html)
 
-[Click Here](https://indianpcd.com/Pte.html)
+[Click Here](https://database.indianpcd.org/Pte.html)
 
 ---
 
 ## Gymnosperms
 
-[![Gymnosperms](images/gymnosperms.jpg "Gymnosperms")](https://indianpcd.com/gym.html)
+[![Gymnosperms](images/gymnosperms.jpg "Gymnosperms")](https://database.indianpcd.org/gym.html)
 
-[Click Here](https://indianpcd.com/gym.html)
+[Click Here](https://database.indianpcd.org/gym.html)
 
 ---
 
 ## Bryophytes
 
-[![Bryophytes](images/Bryophytes.jpg "Bryophytes")](https://indianpcd.com/Bry.html)
+[![Bryophytes](images/Bryophytes.jpg "Bryophytes")](https://database.indianpcd.org/Bry.html)
 
-[Click Here](https://indianpcd.com/Bry.html)
+[Click Here](https://database.indianpcd.org/Bry.html)
 
 ---
