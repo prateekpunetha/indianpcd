@@ -1,4 +1,4 @@
-baseURL = "https://melodious-rugelach-fed4d1.netlify.app/"
+baseURL = "https://indianpcd.org"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "term", "RSS", "robotsTXT"]
